@@ -1,9 +1,9 @@
 {
-    "name": "com.tharinga.unimediator",
-    "version": "1.0.1",
+    "name": "com.minze25.unimediator",
+    "version": "1.0.2",
     "displayName": "UniMediator",
     "description": "A Unity library that implements the Mediator pattern. Loosely based on MediatR",
-    "unity": "2017.4",
+    "unity": "2021.3",
     "dependencies": {},
     "keywords": [
         "library", 
@@ -17,8 +17,8 @@
         "notification system"
     ],
     "author": {
-        "name": "Timon Haringa",
-        "email": "timonster@gmail.com",
-        "url": "https://www.github.com/tharinga/UniMediator"
+        "name": "Aitor Garcia",
+        "email": "aitorgarcia@gmx.com",
+        "url": "https://www.github.com/minze25/UniMediator"
     } 
 }
