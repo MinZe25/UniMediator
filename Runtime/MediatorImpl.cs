@@ -7,6 +7,7 @@ using UniMediator.Internal;
 
 namespace UniMediator
 {
+    [DefaultExecutionOrder(-999)]
     public sealed class MediatorImpl : MonoBehaviour, IMediator
     {
         private readonly SingleMessageHandlerCache _singleMessageHandlers = new SingleMessageHandlerCache();
